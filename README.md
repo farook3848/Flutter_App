@@ -1,4 +1,4 @@
-# notesqflite
+# Flutter Note App using Sqflite
 
 A new Flutter project.
 
